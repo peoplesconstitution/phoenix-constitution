@@ -181,3 +181,15 @@ This Article is enforceable by all branches of government and directly by the pe
 The state must serve the people. When it fails, it must be reformed—not tolerated.
 
 ---
+
+## Section 7: Restoration of Civic Rights Post-Incarceration
+
+- No person shall be denied the right to vote, petition, or participate in civic processes on the basis of prior incarceration.
+- Upon release from incarceration, all civic rights, including the right to seek and hold public office, are fully restored.
+
+- An exception may be made only if the individual's conviction directly involved:
+  - A violation of public trust, including but not limited to electoral fraud, bribery of civic officials, judicial corruption, or treason against constitutional order.
+
+- Any disqualification must be determined through a transparent, appealable judicial process and must be narrowly applied to avoid general disenfranchisement.
+
+- Civic participation is an essential right and duty of personhood and shall not be permanently stripped for ordinary criminal offenses.
