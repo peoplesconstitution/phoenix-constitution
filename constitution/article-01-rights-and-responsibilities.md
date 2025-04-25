@@ -45,6 +45,24 @@ These are not passive liberties but **positive rights**. The government has a di
 
 ---
 
+### Voting and Representation
+
+- Every person governed under this Constitution who meets basic residency and age requirements shall have the unalienable right to vote in all public elections and civic processes.
+
+- The minimum voting age shall be established at **sixteen (16) years old**, unless otherwise adjusted by Constitutional Amendment. Persons attaining the minimum age are entitled to full and equal participation in civic elections and processes.
+
+- Voting rights shall not be denied or abridged based on race, ethnicity, sex, gender identity, sexual orientation, religious belief, national origin, political affiliation, economic status, education level, criminal history post-sentence, or any other status unrelated to civic capacity.
+
+- Proof of citizenship shall be required to register and vote in public elections. However:
+  - All persons shall be provided the necessary documentation, free of cost, by publicly funded civic infrastructure.
+  - No arbitrary barriers, excessive documentation requirements, or prohibitive bureaucratic obstacles may be used to deny or delay a person’s ability to vote.
+
+- Voting shall be accessible, free of unjust barriers, and supported by publicly funded civic infrastructure.
+
+- Voting shall be recognized as a civic right inherent to human dignity and communal voice, not as a privilege granted by the state.
+
+---
+
 ## Section 2: Civic Responsibilities
 
 Persons governed under this Constitution are expected to contribute meaningfully to society. This includes the duty to:
