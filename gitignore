@@ -1,0 +1,20 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# IDE/project folders (if using any)
+.idea/
+.vscode/
+
+# Markdown preview/cache
+.markdown-preview/
+.cache/
+
+# Optional: folder for local drafts
+drafts/
