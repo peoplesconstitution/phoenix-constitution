@@ -6,15 +6,32 @@ All persons governed under this Constitution are guaranteed the following rights
 
 1. **Dignity**  
    Protection from discrimination, degradation, or systemic oppression, including but not limited to race, ethnicity, nationality, sex, gender identity, sexual orientation, religion, disability, or socioeconomic status.  
-   *→ See also: Article II (Limits on State Action), Article XVII (Cultural and Ideological Diversity)*
+   *→ See also: Article II (Limits on State Action), Article XVII (Cultural and Ideological Diversity).*
+
+---
 
 2. **Safety**  
    Freedom from violence, exploitation, environmental harm, neglect, and systemic danger.  
-   *→ See also: Article VIII (Emergency Powers), Article XII (Ecological Stewardship)*
+   This includes the right to self-defense and community defense against unlawful force, subject to the conditions, responsibilities, and limitations outlined in Article XVIII.  
+   *→ See also: Article VIII (Emergency Powers), Article XVIII (Arms and Militia), Article XII (Ecological Stewardship).*
 
-3. **Voice**  
-   Freedom of expression, assembly, religion, association, and dissent without retaliation.  
-   *→ See also: Article XIII (Transparency and Public Information), Article XVII (Diversity Protections)*
+---
+
+3. **Voice, Conscience, and Assembly**  
+   The right to speak, publish, assemble, organize, believe, dissent, and advocate without governmental retaliation.
+
+   This includes:
+   - Freedom of expression, spoken, written, digital, or symbolic
+   - Freedom of the press and public information dissemination
+   - Freedom of peaceful assembly, protest, and association
+   - Freedom of religion, irreligion, spiritual practice, or philosophical belief
+   - Freedom of conscience and thought, without forced indoctrination
+
+   No person shall be compelled to speak against their conscience, punished for their belief, or silenced for their dissent within the bounds of lawful and peaceful conduct.
+
+   *→ See also: Article XIII (Transparency and Press Freedoms), Article VII (Democratic Tools).*
+
+---
 
 4. **Representation**  
    Meaningful participation in the creation, shaping, and review of laws and policies that affect one’s life.  
