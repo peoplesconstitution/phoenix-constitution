@@ -1,167 +1,106 @@
 # Interpretive Notes – Article II: Duties and Limits of the State
 
-These notes explain the spirit, purpose, and critical importance of each section of Article II. They are intended to guide readers, jurists, educators, and future contributors in maintaining the Phoenix Constitution’s integrity.
+These notes clarify the philosophy, intent, and application of the state’s obligations and constraints under the Phoenix Constitution.
 
 ---
 
 ## Section 1: Duties of the State
 
-### Safeguard Rights
-The state exists to **serve and protect** the people's inherent rights, not merely to refrain from violating them.  
-This shifts the role of government from "neutral referee" to **active guarantor of human dignity, safety, and opportunity**.
+The government is not a sovereign power over the people.  
+It is an organized instrument, chartered solely to fulfill specific public duties.
 
----
+- Rights enforcement is **proactive**, not merely defensive.
+- Protection includes shielding persons from systemic harms such as poverty, environmental degradation, and unchecked violence.
+- Public services must be delivered **without discrimination** or manipulation for political gain.
 
-### Protect from Harm
-Protection extends beyond traditional policing to cover **systemic violence**, **economic exploitation**, and **ecological collapse**.  
-The Constitution acknowledges that neglect or inaction can be as damaging as active oppression.
-
----
-
-### Ensure Equitable Access
-Public goods such as healthcare, education, and digital access must be distributed based on human need, not on wealth, geography, or influence.  
-This duty explicitly forbids two-tiered systems of citizenship based on income or status.
-
----
-
-### Administer Justice
-Justice must be operational, not rhetorical. Courts, investigations, and disciplinary mechanisms must be transparent, timely, and free from political interference.  
-Justice delayed, secreted, or selectively applied is a constitutional violation.
-
----
-
-### Remain Transparent and Responsive
-Secrecy and silence breed tyranny.  
-The state must proactively inform the public, accept feedback, and provide accessible, non-obstructive mechanisms for grievances and participation.
+Transparency is not a privilege.  
+It is a permanent duty owed to the governed.
 
 ---
 
 ## Section 2: Limits on State Power
 
-### Surveillance Without Oversight
-Unsupervised surveillance is treated as a form of violence against dignity and freedom.  
-State surveillance must be **rare**, **justified**, **publicly visible**, and **legally accountable**.
+The most common historical cause of governmental failure is the failure to respect limits.
 
----
+- Surveillance powers are strictly bounded by law and review.
+- Dissent is protected as a **necessary function of democracy**, not merely tolerated at the state's discretion.
+- Favoritism, capture by wealth, and systemic corruption are treated not as unfortunate realities—but as constitutional violations.
 
-### Suppression of Dissent
-Speech is protected from government retaliation, but **not shielded from private social consequences**.  
-Protest, assembly, journalism, and critique must be free—even when deeply uncomfortable to those in power.
-
-Use of military force against civilians, even in protest, is constitutionally prohibited and treated as an existential threat to democracy.
-
----
-
-### Favoritism and Capture
-This section decisively **outlaws oligarchy**.
-
-- Wealth, influence, and legacy connections **grant no special privilege** under law.
-- Those who favor or protect the affluent over the public face criminal sanctions and permanent disqualification from public trust.
-- Whistleblowers exposing favoritism receive full constitutional protection.
-
-The age of oligarchy ends with the Phoenix Constitution.
-
----
-
-### Secrecy or Information Manipulation
-Truth is not optional.  
-The government must operate transparently unless protecting private citizens' rights or active, necessary security operations.
-
-Misuse of secrecy is treated not as misconduct but as a **constitutional offense** triggering automatic investigation.
-
----
-
-### Avoidance of Accountability
-Accountability is not a courtesy—it is mandatory.  
-Any official avoiding investigation, civic petitions, or public scrutiny is **immediately suspended** pending independent judicial review.
-
-- Suspension is **automatic**, not subject to internal bureaucratic discretion.
-- Violators face **permanent loss of office** and **criminal penalties**.
-
-No officeholder is "too important" to answer to the people.
+Accountability is not optional.  
+It is the oxygen of a living republic.
 
 ---
 
 ## Section 3: Prohibition of Extrajudicial Detention
 
-Secret prisons, black sites, and informal detainment practices are constitutionally forbidden.  
-Every place where persons are held must be:
+Extrajudicial detention is a primary tool of tyranny.
 
-- Publicly documented
-- Accessible to legal advocates and monitors
-- Subject to independent oversight
+- No secret prisons.
+- No indefinite detention without charge.
+- No transfer to jurisdictions where rights cannot be protected.
 
-Foreign detention is strictly limited to rights-respecting jurisdictions.  
-Fleeing victims of cartel violence, political persecution, or systemic abuse shall not be extradited into danger.
+All persons must be **visible** to public institutions and **reachable** by civic and legal mechanisms.
 
 ---
 
-## Section 4: Prison Rights and Abolition of For-Profit Prisons
+## Section 4: Prison Rights and Abolition of For-Profit Incarceration
 
-### Voluntary and Fairly Compensated Labor
-Labor must be voluntary, fairly compensated, and freely chosen.  
-Prison labor programs cannot replace workers' rights or be used as disguised exploitation.
+Profit-driven imprisonment corrupts justice by incentivizing human suffering.
 
----
+- Prison labor must be voluntary and fairly compensated.
+- Upon release, individuals must not face crippling debts that tether them to cycles of criminalization.
 
-### End of For-Profit Incarceration
-No person should ever financially benefit from the suffering or captivity of another.  
-For-profit incarceration is framed as a **systemic crime** against human dignity.
-
-All facilities must be publicly accountable, transparent, and operated without private profit motives.
-
----
-
-### Debt-Free Reintegration
-Prisoners must not be burdened by debts or fees associated with their incarceration.  
-Freedom must mean actual, accessible reintegration—not life-long financial punishment.
+Rehabilitation and reintegration, not exploitation, are the constitutional goals of justice.
 
 ---
 
 ## Section 5: Civic Defense and Policing Restraint
 
-### Prohibited Militarization
-The military is for national defense, not domestic suppression.  
-Civic law enforcement must remain demilitarized, community-accountable, and proportional.
+Law enforcement exists to serve and protect—not dominate or intimidate.
 
----
+- Militarized policing is prohibited.
+- Independent civilian oversight is mandated.
+- Officers who violate rights face transparent investigation and consequences, without protective barriers of institutional loyalty.
 
-### Duty of Restraint and Accountability
-Force must always be the last resort.
-
-- Investigations into alleged misconduct must be performed **outside** the jurisdiction where the alleged abuse occurred.
-- "We investigated ourselves and found no wrongdoing" is formally prohibited.
-- Shuffling officers to other jurisdictions is treated as **accessory after the fact** and faces constitutional and criminal consequences.
-
-Qualified immunity is **abolished** when it shields violations of dignity, safety, or rights.
-
-No badge shields injustice.
+The badge does not shield wrongdoing.  
+Authority flows from service—not force.
 
 ---
 
 ## Section 6: Enforcement and Consequences
 
-Accountability is not optional, symbolic, or dependent on political winds.  
-It is **systematically enforced** by:
+The Constitution is not merely a set of ideals; it is **enforceable law**.
 
-- Civilian watchdogs
-- Judicial courts
-- Citizen petitions
-- Public transparency
+- Judicial, civilian, and electoral tools exist to correct violations.
+- Obstruction of investigations is itself a grave constitutional offense.
 
-The people are not reliant on "good faith actors" to protect their Constitution.  
-They are **empowered** structurally to protect it themselves.
+Democracy without enforceable accountability is theater.  
+This Constitution mandates the real thing.
+
+---
+
+## Section 7: Restoration of Civic Rights Post-Incarceration
+
+Incarceration does not erase personhood.
+
+- Voting, civic participation, and eligibility for public office are restored automatically upon release.
+- Only convictions involving **betrayal of public trust** (such as electoral fraud or judicial corruption) may justify temporary disqualification—and even then, only through transparent, appealable processes.
+
+No society can call itself free while permanently disenfranchising those it has already punished.
+
+Dignity, not perpetual exclusion, is the foundation of true civic reintegration.
 
 ---
 
 # Summary
 
-**Article II transforms abstract rights into actionable obligations.**
+The government serves the people, not the other way around.  
+Its power is bounded, transparent, enforceable—and temporary.
 
-It defines not only what the government must do, but also what it must never do.  
-It eliminates the structural enablers of tyranny: secrecy, elitism, unaccountability, militarization, and bureaucratic rot.
+Rights are not suggestions.  
+Accountability is not negotiable.  
+The dignity of every person is the north star against which the state's performance must be judged.
 
-This is not the regulation of a republic.  
-It is the binding of Leviathan—by the hands of the people themselves.
+The health of a republic is measured not by its leaders, but by the rights it guarantees to its most vulnerable.
 
 ---
