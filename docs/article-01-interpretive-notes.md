@@ -44,6 +44,17 @@ Representation must be meaningful. That includes fair voting processes, civic ov
 
 *Referenced in: Article IV (Governance), Article V (Voting), Article XI (Districting), Article VII (Recall).*
 
+## Voting and Representation
+
+Voting is not a privilege granted by government.  
+It is an expression of human dignity, communal voice, and civic personhood.
+
+- Age thresholds are established not to limit capacity, but to anchor maturity within public participation.
+- Citizenship verification safeguards electoral integrity but must never be weaponized to suppress lawful participation.
+- All persons must be granted cost-free, accessible documentation to exercise their civic rights without discrimination or delay.
+
+Voting represents not just participation—but ownership of one's own society.
+
 ---
 
 ### 5. Necessities
