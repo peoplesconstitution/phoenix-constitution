@@ -1,6 +1,6 @@
 # Preamble
 
-We, the people of this earth, come together to affirm a new compact—one rooted in dignity, justice, and shared responsibility.  
+We, the people, come together to affirm a new compact—one rooted in dignity, justice, and shared responsibility.  
 
 We recognize that past systems, though founded on noble ideals, have too often been shaped by privilege, distorted by unchecked power, and captured by private interest. We acknowledge these failures—not to dwell in them, but to transcend them.
 
