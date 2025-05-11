@@ -54,7 +54,7 @@ Every person under the jurisdiction of this Constitution shall be guaranteed the
 
 ## Section 2: Responsibilities of Citizenship
 
-Citizens of the Democratic Cooperative Republic shall be expected to uphold and embody the following responsibilities:
+Citizens shall be expected to uphold and embody the following responsibilities:
 
 - **2.1 Civic Participation**  
   Citizens shall vote, deliberate, and engage in civic life with informed intent and good faith.
