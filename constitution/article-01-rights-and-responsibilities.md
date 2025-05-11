@@ -1,123 +1,141 @@
 # Article I – Rights and Responsibilities of the People
 
-## Section 1: Inherent Rights
+---
 
-All persons governed under this Constitution are guaranteed the following rights, which the government is obligated to uphold and fulfill:
+## Section 1: Rights of All Persons
 
-1. **Dignity**  
-   Protection from discrimination, degradation, or systemic oppression, including but not limited to race, ethnicity, nationality, sex, gender identity, sexual orientation, religion, disability, or socioeconomic status.  
-   *→ See also: Article II (Limits on State Action), Article XVII (Cultural and Ideological Diversity).*
+Every person under the jurisdiction of this Constitution shall be guaranteed the following rights, without discrimination or qualification:
+
+### 1.1 – Core Personal Rights
+
+- **1.1.1 Dignity**  
+  Protection from discrimination, degradation, systemic oppression, or identity-based harm.
+
+- **1.1.2 Bodily Sovereignty**  
+  Full authority over one's own body, subject to legal clarification for minors and incapacitated persons.  
+  *See Codicil I-A.1.2*
+
+- **1.1.3 Voice and Expression**  
+  Freedom to speak, dissent, assemble, and publish, including freedom of the press, protest, religion, and non-belief.
+
+- **1.1.4 Belief and Conscience**  
+  Freedom of spiritual and philosophical thought without coercion or favoritism.
+
+- **1.1.5 Association**  
+  Right to organize, assemble, and participate in cultural, civic, or political communities.
+
+- **1.1.6 Protection from Unjust Detention**  
+  No person shall be detained, arrested, or imprisoned without due process of law and judicial review.
+
+- **1.1.7 Due Process and Legal Integrity**  
+  Right to a fair hearing, legal counsel, appeal, and timely resolution of legal matters.
+
+- **1.1.8 Digital Access and Agency**  
+  Right to access public digital infrastructure and participate in digital communication and culture.
+
+- **1.1.9 Self-Defense**  
+  Right to defend oneself and others against unlawful harm, with oversight and licensing.  
+  *Expanded in Article II-X (Right to Keep and Bear Arms)*
+
+- **1.1.10 Reproductive Autonomy**  
+  Right to choose or refuse pregnancy, birth care, and reproductive health services.
+
+- **1.1.11 Disability Inclusion and Support**  
+  Rights for persons with physical, cognitive, or sensory disabilities to access, participate, and receive support equitably.
+
+- **1.1.12 Protection from Automated Injustice**  
+  Protection from algorithmic discrimination and opaque, automated decisions.  
+  *See also: Article I-C.5*
+
+- **1.1.13 Procedural Justice**  
+  Right to a fair trial, legal representation, and protection from excessive punishment.
 
 ---
 
-2. **Safety**  
-   Freedom from violence, exploitation, environmental harm, neglect, and systemic danger.  
-   This includes the right to self-defense and community defense against unlawful force, subject to the conditions, responsibilities, and limitations outlined in Article XVIII.  
-   *→ See also: Article VIII (Emergency Powers), Article XVIII (Arms and Militia), Article XII (Ecological Stewardship).*
+## Section 2: Responsibilities of Citizenship
+
+Citizens of the Democratic Cooperative Republic shall be expected to uphold and embody the following responsibilities:
+
+- **2.1 Civic Participation**  
+  Citizens shall vote, deliberate, and engage in civic life with informed intent and good faith.
+
+- **2.2 Public Stewardship**  
+  Citizens shall protect public resources and institutions from abuse, neglect, and corruption.
+
+- **2.3 Lawful Conduct**  
+  Citizens shall obey just laws and seek redress through lawful, democratic means when injustice is perceived.
+
+- **2.4 Mutual Respect**  
+  Citizens shall respect the rights of others and refrain from discrimination, intimidation, or coercion.
+
+- **2.5 Collective Responsibility**  
+  Citizenship entails both individual liberty and a shared duty to uphold justice, truth, and democratic norms.
 
 ---
 
-3. **Voice, Conscience, and Assembly**  
-   The right to speak, publish, assemble, organize, believe, dissent, and advocate without governmental retaliation.
+## Section 3: Rights of the Incarcerated
 
-   This includes:
-   - Freedom of expression, spoken, written, digital, or symbolic
-   - Freedom of the press and public information dissemination
-   - Freedom of peaceful assembly, protest, and association
-   - Freedom of religion, irreligion, spiritual practice, or philosophical belief
-   - Freedom of conscience and thought, without forced indoctrination
+Even when lawfully detained, all persons retain the following rights:
 
-   No person shall be compelled to speak against their conscience, punished for their belief, or silenced for their dissent within the bounds of lawful and peaceful conduct.
+- **3.1 Protection from Abuse**  
+  No person shall be subject to torture, coercion, humiliation, or medical neglect.
 
-   *→ See also: Article XIII (Transparency and Press Freedoms), Article VII (Democratic Tools).*
+- **3.2 Legal Rights**  
+  Right to counsel, appeal, family contact, education, and humane conditions shall not be suspended.
 
----
+- **3.3 Reintegration and Dignity**  
+  Upon release, all civil rights, including the right to vote and hold office, shall be fully restored.
 
-4. **Representation**  
-   Meaningful participation in the creation, shaping, and review of laws and policies that affect one’s life.  
-   *→ See also: Article IV (Democratic Governance), Article V (Elections), Article VII (Recall)*
+- **3.4 Protection from Exploitation**  
+  No labor shall be performed under duress. Labor must be voluntary and fairly compensated.
 
-5. **Necessities**  
-   Guaranteed access to healthcare, food, clean water, shelter, education, and digital inclusion.  
-   *→ See also: Article VI (Dignified Opportunity), Article IX (Foreign Relations and Ethical Trade)*
-
-These are not passive liberties but **positive rights**. The government has a direct, legal, and moral obligation to ensure their realization, using mechanisms defined in Articles II, III, and beyond.
+- **3.5 Transparency and Oversight**  
+  No person shall be detained in secret, in foreign or for-profit facilities, or under the control of unaccountable actors.
 
 ---
 
-### Voting and Representation
+## Section 4: Rights of Collective Entities
 
-- Every person governed under this Constitution who meets basic residency and age requirements shall have the unalienable right to vote in all public elections and civic processes.
+Recognizing the role of collectives in society, this Constitution protects:
 
-- The minimum voting age shall be established at **sixteen (16) years old**, unless otherwise adjusted by Constitutional Amendment. Persons attaining the minimum age are entitled to full and equal participation in civic elections and processes.
+- **4.1 Worker and Labor Rights**  
+  Right of workers to organize, bargain, strike, and participate in workplace governance.
 
-- Voting rights shall not be denied or abridged based on race, ethnicity, sex, gender identity, sexual orientation, religious belief, national origin, political affiliation, economic status, education level, criminal history post-sentence, or any other status unrelated to civic capacity.
+- **4.2 Cultural and Religious Communities**  
+  Right to maintain, express, and preserve cultural or religious identity free from coercion.
 
-- Proof of citizenship shall be required to register and vote in public elections. However:
-  - All persons shall be provided the necessary documentation, free of cost, by publicly funded civic infrastructure.
-  - No arbitrary barriers, excessive documentation requirements, or prohibitive bureaucratic obstacles may be used to deny or delay a person’s ability to vote.
+- **4.3 Civil Society and Nonprofits**  
+  Right to form organizations for civic, educational, humanitarian, environmental, or democratic purposes.
 
-- Voting shall be accessible, free of unjust barriers, and supported by publicly funded civic infrastructure.
+- **4.4 Media and Journalism**  
+  Freedom of independent media to investigate, inform, and critique public and private power.
 
-- Voting shall be recognized as a civic right inherent to human dignity and communal voice, not as a privilege granted by the state.
-
----
-
-## Section 2: Civic Responsibilities
-
-Persons governed under this Constitution are expected to contribute meaningfully to society. This includes the duty to:
-
-- Vote in elections or formally abstain,  
-- Remain informed on civic matters,  
-- Respect the dignity of others,  
-- Contribute to the social, ecological, and civic health of their communities.  
-  *→ See also: Article V (Voting and Infrastructure), Article XII (Ecological Stewardship)*
-
-These responsibilities are **not conditions** of one's rights, but expressions of civic solidarity.
+- **4.5 Corporations and Enterprises**  
+  Legal entities shall enjoy only those rights necessary for function; they shall not possess personhood or civil rights.
 
 ---
 
-## Section 3: Rights and the Market
+## Section 5: Responsibilities of the State
 
-Basic human needs shall not be commodified nor subject solely to market forces.
+The State must:
 
-- The government shall ensure **universal, equitable access** to essential services.  
-- Private enterprise may complement public services but shall **not monopolize or limit** access to basic rights.  
-- No entity, private or public, shall override a person's dignity or freedom through wealth, artificial scarcity, or legal fiction.
+- **5.1 Protect Rights Without Bias**  
+  Enforce and safeguard rights for all persons without regard to wealth, identity, or status.
 
-*→ See also: Article XIV (Anti-Corruption), Article VI (Dignified Opportunity), Article IX (Ethical Trade)*
+- **5.2 Serve the Public Good**  
+  Act in the interest of the collective welfare and never as an instrument of private dominance.
 
----
+- **5.3 Remain Accountable and Transparent**  
+  Be open to public scrutiny, citizen petition, and judicial review.
 
-## Section 4: Constitutional Adaptability
+- **5.4 Abstain from Coercion**  
+  Refrain from unnecessary force, surveillance, or suppression of lawful expression.
 
-To ensure living governance, this Constitution shall undergo formal **public review every 20 years** through a Constitutional Convention of the People.
-
-- This convention shall include elected delegates, subject-matter experts, and randomly selected civic jurors.  
-- All proposed revisions shall be subject to **nationwide public referendum**.  
-- No right articulated in this Article shall be removed or reduced without direct public approval.  
-  *→ See also: Article X (Constitutional Maintenance)*
+- **5.5 Guarantee Access**  
+  Provide meaningful access to justice, healthcare, education, shelter, and participation in governance.
 
 ---
 
-## Section 5: Representation by Population
+## Codicils and Interpretive Notes
 
-- Every **10,000 persons** shall elect one **Local Delegate**.  
-- Local Delegates may propose legislation, review regional governance, and participate in deliberative forums.  
-- Every **50 Local Delegates** shall collectively select one **National Representative**, subject to confirmation by public vote.  
-  *→ See also: Article IV (Structure of Democratic Governance), Article XI (Administrative Districts)*
-
-This system ensures proportional representation and prevents distortion by geography or legacy administrative boundaries.
-
----
-
-## Section 6: Living Governance
-
-This Article serves as both **the moral compass** and **the legal spine** of this Constitution.
-
-- All subsequent Articles must interpret and implement these principles.  
-- No law, policy, or government action shall contradict the rights and responsibilities set forth herein.  
-- All persons may petition for review or redress if they believe these rights are being violated.  
-  *→ See also: Article III (Judicial Enforcement), Article VII (Democratic Tools)*
-
----
+Interpretive annotations for specific subsections of Article I shall be maintained in a supplementary document labeled Article I-C, which carries constitutional weight equivalent to this Article.
